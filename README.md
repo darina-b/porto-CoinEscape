@@ -1,4 +1,4 @@
-# porto-pygame
+# [porto-pygame]
 #
 # INTRO: This game was developed as a project for my course in Advanced Python (MOOC-PROGRAMMING-2024).
 # INITIAL TASK: Use Pygame to build a shooting game and use only the given images: coin, robot, monster, door.
@@ -20,10 +20,8 @@
 # If you hit a robot >> a new monster appears.
 #
 # CONTROL KEYS:
-# start == <RUN> your code
+# start == 'RUN' your code
 # play == use cursor
-# end == close the game window <X>
+# end == close the game window 'X'
 #
 # Enjoy!
-
-###########################################################################################################################
