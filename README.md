@@ -1,13 +1,30 @@
-$ PROJECT NAME: **CoinEscape, game**
+PROJECT: **CoinEscape**  
 
-$ IDEA: Build a Pygame shooter using only the given images: coin, robot, monster, door.
+AUTHOR: **Darina Bunak**  
 
-$ CODE BASICS: 
+TECHNOLOGIES: **Python (OOP, Pygame)**  
+
+##  
+
+
+##  
+**IDEA**  
+
+Build a Pygame shooter using only the given images: coin, robot, monster, door.
+##  
+
+**SOLUTION**  
+
 Each object has its own class: Coin, Robot, Monster, Door, Text - with assigned attributes and functionality.
 These individual classes are inherited by the main game class CoinEscape, which contains methods
 for handling all of the above classes.
+##  
 
-$ GAME INSTRUCTIONS: 
+
+##  
+
+**FUNCTIONALITY**  
+
 - *Start:* Run the code
 - *Start screen:* You will see the screen with 12 coins and the door, into which you should shoot as many coins, as you can.
 Charging and shooting happens below the horizontal line. Everything above the line is out of your direct control.
