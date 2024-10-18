@@ -6,11 +6,21 @@ TECHNOLOGIES: **Python (OOP, Pygame)**
 
 ##  
 
-
+**TASK**  
+*[This project was made as a part of Advanced Python course, so some restrictions were imposed by the assignment.]*
+Build a game in Pygame using only the given images (how many - by choice):
+* coin  
+* robot
+* monster
+* door  
 ##  
-**IDEA**  
 
-Build a Pygame shooter using only the given images: coin, robot, monster, door.
+![pic_07](https://github.com/user-attachments/assets/81d92b10-c67a-4aaf-b078-08225e9f79cf)
+##  
+
+**IDEA**  
+Build a shooter game that incorporates all the given assets.  
+The
 ##  
 
 **SOLUTION**  
